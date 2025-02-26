@@ -5,7 +5,6 @@ plugins {
 
 android {
     namespace = "com.example.tugaslogin"
-    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.tugaslogin"
